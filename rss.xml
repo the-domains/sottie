@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sottie]]></title>
         <description><![CDATA[Sottie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sottie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 00:08:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 00:19:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sottie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83ccfd53-4d24-4651-aa89-410d27c3985e.png">]]></description>
+            <link>https://thegrid.ai/sottie/ba92e916-a5a3-4ac9-a10a-7f8463267655/index.html</link>
+            <guid isPermaLink="false">ba92e916-a5a3-4ac9-a10a-7f8463267655</guid>
+            <pubDate>Fri, 01 Apr 2016 00:19:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00a8d731-c182-42c1-a554-b5afd363c98c.jpg">]]></description>
-            <link>undefinedb82c1f33-e731-43a9-8128-7da16243e571/index.html</link>
+            <link>https://thegrid.ai/sottie/b82c1f33-e731-43a9-8128-7da16243e571/index.html</link>
             <guid isPermaLink="false">b82c1f33-e731-43a9-8128-7da16243e571</guid>
             <pubDate>Fri, 01 Apr 2016 00:08:41 GMT</pubDate>
         </item>
