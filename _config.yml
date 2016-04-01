@@ -1,6 +1,6 @@
 name: Sottie
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74598
 typography_spectrum: 0.75825
 title: Sottie Joyería
 cta:
@@ -22,7 +22,7 @@ color:
     - '#486100'
     - '#9b7b00'
     - '#95c800'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0
   saturation: 0.3125
   rhythmicContrast: 0.25
